@@ -1,4 +1,11 @@
-Hi there, Vitor here 👋
+**Hi there,  Vitor here** 👋
+
+Follow me <img src="https://1.bp.blogspot.com/-kUzSJn7zczc/XS8tzmON6iI/AAAAAABG4u4/IPJ0DgpjcCsJq1xnrmuNwTWNGv60clRWgCLcBGAs/s1600/AW3945860_02.gif" width="50">
+
+
+[![Twitter: vhvitro](https://img.shields.io/twitter/follow/vhvitro?style=social)](https://twitter.com/vhvitro) [![GitHub Vitor](https://img.shields.io/github/followers/vhvitro?label=follow&style=social)](https://github.com/vhvitro)
+
+
 
 ```python
 class Student:
@@ -18,3 +25,4 @@ class Student:
 vh = Student()
 while True:
     vh.learn()
+```
