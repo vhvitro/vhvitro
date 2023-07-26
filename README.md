@@ -18,7 +18,7 @@ class Student:
         self.code = ['Python', 'JavaScript', 'C++']
         self.tools = ['React', 'Node']
         
-    def learn():
+    def learn(self):
         learning = True
         content = ['Python', 'C++', 'Data Science', 'Math', 'Physics', 'Chemistry', 'Machine Learning']
           
