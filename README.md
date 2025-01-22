@@ -13,7 +13,7 @@ class Student:
     def __init__(self):
         self.name = 'Vitor Hugo'
         self.pronouns = 'He/Him'
-        self.role = 'High School Student'
+        self.role = 'College Student'
         self.language_spoken = ['pt_BR', 'en_US']
         self.code = ['Python', 'JavaScript', 'C++']
         self.tools = ['React', 'Node']
